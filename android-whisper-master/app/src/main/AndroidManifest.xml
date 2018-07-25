@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="de.tubs.ibr.dtn.chat">
+
+    <uses-permission android:name="de.tubs.ibr.dtn.permission.DTN_COMMUNICATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MainTheme">
+
+
+        <activity
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".LoginActivity">
+        </activity>
+
+
+        <activity
+            android:name=".MergeActivity">
+        </activity>
+
+        <activity
+            android:name=".PeerActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+        </activity>
+
+        <activity
+            android:name=".MessageActivity"
+            android:configChanges="orientation|screenSize"
+            android:parentActivityName=".PeerActivity"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PeerActivity" />
+        </activity>
+
+        <activity
+            android:name=".ReplyActivity" />
+
+        <activity
+            android:name=".Preferences"
+            android:icon="@drawable/ic_action_settings"
+            android:label="@string/preferences" />
+
+        <service android:name=".service.ChatService" />
+        <service android:name=".service.TTSService" />
+
+        <receiver
+            android:name=".service.EventReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="de.tubs.ibr.dtn.permission.DTN_SERVER">
+            <intent-filter>
+                <action android:name="de.tubs.ibr.dtn.intent.RECEIVE" />
+                <category android:name="de.tubs.ibr.dtn.chat" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="de.tubs.ibr.dtn.intent.STATUS_REPORT" />
+                <category android:name="de.tubs.ibr.dtn.chat" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name=".service.NotificationReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="de.tubs.ibr.dtn.chat.ACTION_NEW_MESSAGE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+
+
+
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps"></activity>
+
+        <service
+            android:name=".Latlong"
+            android:exported="false"/>
+
+        <activity
+            android:name=".Cloud_SignUpActivity">
+        </activity>
+
+        <activity
+            android:name=".Cloud_SignInActivity">
+        </activity>
+
+        <service
+            android:name=".Cloud_ServiceCloudData">
+        </service>
+
+        <activity
+            android:name=".Cloud_MapActivity">
+        </activity>
+
+        <activity
+            android:name=".ChatApplication">
+        </activity>
+
+    </application>
+
+</manifest>

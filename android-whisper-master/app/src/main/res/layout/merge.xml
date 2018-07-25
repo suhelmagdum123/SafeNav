@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/buttonCloud"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="198dp"
+        android:text="Cloud App"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/buttonPeer"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonCloud"
+        android:layout_centerHorizontal="true"
+        android:text="Peer to Peer App" />
+</RelativeLayout>

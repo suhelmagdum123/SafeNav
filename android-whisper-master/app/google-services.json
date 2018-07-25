@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "892600460034",
+    "firebase_url": "https://android-whisper-master.firebaseio.com",
+    "project_id": "android-whisper-master",
+    "storage_bucket": "android-whisper-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892600460034:android:527b78b6cb2f5efc",
+        "android_client_info": {
+          "package_name": "de.tubs.ibr.dtn.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892600460034-keagvuhhrqvqm4b34spqk5cifnosanoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL08R4Cmmx85UFlCHqFTSYx4bI4DQMfDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

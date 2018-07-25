@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ac24cda1f6267728d2de6b79fd8d4b127bf4f1c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_a3906d0af628fe5f8c389963a88c682526242e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dc4a713af7b7c5d4fba739e1d0fedcf2c3357b23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_1c2b2ecffe58f961a86862d692a99a378431c2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/08a3470d3529c2253fd3e04221fffc33ce13bdd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_3ec79514743d0a724aa22422d9e21209271379d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ba5d97448b86314b6b2786bc1f8fe935c6266fc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a78fd65e04d26a2a3a588e01fe22677ada8bbaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/08a3470d3529c2253fd3e04221fffc33ce13bdd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ec79514743d0a724aa22422d9e21209271379d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ff6da586fa62b74a703855321955da7b531fe1b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_845afaba41bf9aca2c1fe1c9ac34037f18bde437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ba5d97448b86314b6b2786bc1f8fe935c6266fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_4a78fd65e04d26a2a3a588e01fe22677ada8bbaf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ff6da586fa62b74a703855321955da7b531fe1b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_845afaba41bf9aca2c1fe1c9ac34037f18bde437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ac24cda1f6267728d2de6b79fd8d4b127bf4f1c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3906d0af628fe5f8c389963a88c682526242e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/18ba1ec77656b0e84f6f2fc707ff907602a9bdd4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfc6b7f954468bcf22457133f604a0aba0b06eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f1126f6acfcccf4e887fe03b74cd7c32f7373366">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48c0eba3f1edba1db62e013a9d9b4b6e8ea63918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/74f6bfb4260cdb029fa39a133fd842eac1b9cc2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a34d689a5ae721836e34c7fd3e2bc753e711428f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/18ba1ec77656b0e84f6f2fc707ff907602a9bdd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_cfc6b7f954468bcf22457133f604a0aba0b06eb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1aef802d409125c1de23801b9478ef8c9c7ee597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf31ec8465acee08c63901fd10e9c5c484879393/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1aef802d409125c1de23801b9478ef8c9c7ee597/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_bf31ec8465acee08c63901fd10e9c5c484879393.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/dc4a713af7b7c5d4fba739e1d0fedcf2c3357b23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c2b2ecffe58f961a86862d692a99a378431c2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b394941d245689d7d1afb03f92eb1f603a0054f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/eb9057b3d2203750a79b0210ca99fb64b68578b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_b5085a6fa696137772ad73b90e85d7791b70ac50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/eb9057b3d2203750a79b0210ca99fb64b68578b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5085a6fa696137772ad73b90e85d7791b70ac50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c5f6370f844efb5387165f5510a0a3b8515e22b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_3411ce8730177f2de9326002289f5e3b3637a612.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f8673990d58d53843ea94bfa5cf6c70a2fecec11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="181316627602c254e53be60fc85672913fb3fd91">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a8916c9b06264753e39ab069937b683ced2675d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c5f6370f844efb5387165f5510a0a3b8515e22b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3411ce8730177f2de9326002289f5e3b3637a612/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f8673990d58d53843ea94bfa5cf6c70a2fecec11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="181316627602c254e53be60fc85672913fb3fd91">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_5a8916c9b06264753e39ab069937b683ced2675d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/74f6bfb4260cdb029fa39a133fd842eac1b9cc2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_a34d689a5ae721836e34c7fd3e2bc753e711428f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f2b901fbd2e982747d2129d624b3bc9af507a7d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/pre-dexed/debug/classes_6e3becf2d7e3f766cf6fbf1901565a25843ec55a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f2b901fbd2e982747d2129d624b3bc9af507a7d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/media/mehul/75791dd0-02af-4bb7-be3f-10deb8c690d8/MEHUL/MTECH_RA_PROJECT/android-whisper-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e3becf2d7e3f766cf6fbf1901565a25843ec55a/classes.dex" />
+    </item>
+
+</items>

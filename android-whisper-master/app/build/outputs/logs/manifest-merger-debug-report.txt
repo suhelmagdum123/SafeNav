@@ -1,0 +1,632 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+MERGED from [de.tubs.ibr.dtn:library:1.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-1.1.1.aar/e7aba6281f53467aa53f82f969cc4920/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7572a0b4bee1fbd479093a7185706500/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/bca2574c5b43e5983044afdd4e9c07d7/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/62dfd999cc3ed219c1bfbeff888a9b17/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/406ebb226204b85648ff0b88f654f782/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/4a122c72051ea7357712b560def4d6a4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/7904b121571d60f0249d32b54d727cf3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/d82316685a431efaef20d4c647c29039/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/e566bd714a507f04d33c570f055ebc33/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/8c89d632161ee2a2aad2b8a3ae368753/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a3c3b2af6d0c29820199f0bfdcc131f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b7964848bb5fbf9349e62fd2ffb55856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cbdb15bb79aeccdd64e85e8953e386dc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b71a9b46d87b39bd2915e1ea5e2cb8bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebase:geofire-android:2.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/cd0539cb376da1430df1f1a311b4aaa9/AndroidManifest.xml:1:1-5:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0351fb09189edee33e091a216d49157e/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.instacart.truetime-android:library-extension-rx:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-extension-rx-3.3.aar/807c74e8d8a4872d3a19ae55b9f81fe0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.2.aar/cd6dd8d4f3a45ebc067f75d2e97a461f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/2bfc2bf5ea55687f5d823a116ad45aeb/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/c518671efc0e152fd9020cb71ffd25e1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/86979e45804d851ce29a5fe98f2b8c06/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/72e941617abfc44c08f7d1446aa42f65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/36f60ac3e5a9185c160764cc86c8e076/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/617edeeb74e40942e3abeb15dd7eb852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8a765d8899e1b6c98f61e87d5eeaa901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b8a9b6f08683bec0367f2c4121e51def/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fa031afe167be9ad1008445e932aa891/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/531c1ef00dbab749f224725b7f45ba5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3963d21c433cb428956e9c16fb9c00e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/e33cf08c40e8708f2acefcab78d496a6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/feba3aca877c0cdb4c18381cbbd841a0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/ae10869f5a90c509e67776639c62dc4c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/4ce9aafc1fde49c20bbff69f17c4f0b5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/d9f143398bc0bc37b31d33d660684015/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/4a32c873553540ec826a2d1771bb0660/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/66603aa4f6de27a389e1a606a164ccaf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/c9f9282d99b75a861e167a659361db46/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/bd628e25f566e4ab63cb1af803f4d791/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/81d9e18019b3e8dcbf8974a37011288b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/aa9103ba92e9c820dc323cbd79548b40/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+	package
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:1-144:12
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#de.tubs.ibr.dtn.permission.DTN_COMMUNICATION
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:6:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:15:5-81
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:20:5-66
+MERGED from [com.firebase:geofire-android:2.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/cd0539cb376da1430df1f1a311b4aaa9/AndroidManifest.xml:4:3-64
+MERGED from [com.firebase:geofire-android:2.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/cd0539cb376da1430df1f1a311b4aaa9/AndroidManifest.xml:4:3-64
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:10:5-67
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:12:5-76
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:12:5-76
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:19:5-78
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:11:5-79
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:13:22-76
+application
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:15:5-142:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/bca2574c5b43e5983044afdd4e9c07d7/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/bca2574c5b43e5983044afdd4e9c07d7/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/62dfd999cc3ed219c1bfbeff888a9b17/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/62dfd999cc3ed219c1bfbeff888a9b17/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/d82316685a431efaef20d4c647c29039/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/d82316685a431efaef20d4c647c29039/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/8c89d632161ee2a2aad2b8a3ae368753/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/8c89d632161ee2a2aad2b8a3ae368753/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cbdb15bb79aeccdd64e85e8953e386dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cbdb15bb79aeccdd64e85e8953e386dc/AndroidManifest.xml:9:5-20
+MERGED from [com.github.instacart.truetime-android:library-extension-rx:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-extension-rx-3.3.aar/807c74e8d8a4872d3a19ae55b9f81fe0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.instacart.truetime-android:library-extension-rx:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-extension-rx-3.3.aar/807c74e8d8a4872d3a19ae55b9f81fe0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.2.aar/cd6dd8d4f3a45ebc067f75d2e97a461f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.2.aar/cd6dd8d4f3a45ebc067f75d2e97a461f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/2bfc2bf5ea55687f5d823a116ad45aeb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/2bfc2bf5ea55687f5d823a116ad45aeb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/c518671efc0e152fd9020cb71ffd25e1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/c518671efc0e152fd9020cb71ffd25e1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/86979e45804d851ce29a5fe98f2b8c06/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/86979e45804d851ce29a5fe98f2b8c06/AndroidManifest.xml:5:5-20
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:17:5-25:19
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:17:5-25:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/e33cf08c40e8708f2acefcab78d496a6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/e33cf08c40e8708f2acefcab78d496a6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/feba3aca877c0cdb4c18381cbbd841a0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/feba3aca877c0cdb4c18381cbbd841a0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/ae10869f5a90c509e67776639c62dc4c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/ae10869f5a90c509e67776639c62dc4c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/4ce9aafc1fde49c20bbff69f17c4f0b5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/4ce9aafc1fde49c20bbff69f17c4f0b5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/d9f143398bc0bc37b31d33d660684015/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/d9f143398bc0bc37b31d33d660684015/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/4a32c873553540ec826a2d1771bb0660/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/4a32c873553540ec826a2d1771bb0660/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/c9f9282d99b75a861e167a659361db46/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/c9f9282d99b75a861e167a659361db46/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/bd628e25f566e4ab63cb1af803f4d791/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/bd628e25f566e4ab63cb1af803f4d791/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/81d9e18019b3e8dcbf8974a37011288b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/81d9e18019b3e8dcbf8974a37011288b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/aa9103ba92e9c820dc323cbd79548b40/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/aa9103ba92e9c820dc323cbd79548b40/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:19:9-41
+activity#de.tubs.ibr.dtn.chat.MainActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:26:27-74
+activity#de.tubs.ibr.dtn.chat.LoginActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:30:9-32:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:31:13-42
+activity#de.tubs.ibr.dtn.chat.MergeActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:35:9-37:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:36:13-42
+activity#de.tubs.ibr.dtn.chat.PeerActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:39:9-44:20
+	android:label
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:42:13-45
+	android:windowSoftInputMode
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:43:13-67
+	android:icon
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:40:13-41
+activity#de.tubs.ibr.dtn.chat.MessageActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:46:9-54:20
+	android:parentActivityName
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:49:13-55
+	android:windowSoftInputMode
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:50:13-67
+	android:configChanges
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:47:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:51:13-53:49
+	android:value
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:53:17-46
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:52:17-63
+activity#de.tubs.ibr.dtn.chat.ReplyActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:56:9-57:45
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:57:13-42
+activity#de.tubs.ibr.dtn.chat.Preferences
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:59:9-62:51
+	android:label
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:62:13-48
+	android:icon
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:60:13-40
+service#de.tubs.ibr.dtn.chat.service.ChatService
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:64:9-56
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:64:18-53
+service#de.tubs.ibr.dtn.chat.service.TTSService
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:65:9-55
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:65:18-52
+receiver#de.tubs.ibr.dtn.chat.service.EventReceiver
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:67:9-86:20
+	android:enabled
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:69:13-35
+	android:exported
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:70:13-36
+	android:permission
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:71:13-71
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:68:13-50
+intent-filter#de.tubs.ibr.dtn.chat+de.tubs.ibr.dtn.intent.RECEIVE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:72:13-75:29
+action#de.tubs.ibr.dtn.intent.RECEIVE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:73:17-73
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:73:25-70
+category#de.tubs.ibr.dtn.chat
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:74:17-65
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:74:27-62
+intent-filter#de.tubs.ibr.dtn.chat+de.tubs.ibr.dtn.intent.STATUS_REPORT
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:76:13-79:29
+action#de.tubs.ibr.dtn.intent.STATUS_REPORT
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:77:25-76
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:80:13-82:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:81:17-84
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:81:25-81
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:83:13-85:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:84:17-79
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:84:25-76
+receiver#de.tubs.ibr.dtn.chat.service.NotificationReceiver
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:88:9-96:20
+	android:enabled
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:90:13-35
+	android:exported
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:89:13-57
+intent-filter#android.intent.category.DEFAULT+de.tubs.ibr.dtn.chat.ACTION_NEW_MESSAGE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:92:13-95:29
+action#de.tubs.ibr.dtn.chat.ACTION_NEW_MESSAGE
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:93:17-82
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:93:25-79
+category#android.intent.category.DEFAULT
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:94:17-76
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:94:27-73
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:110:9-112:55
+	android:value
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:112:13-52
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:111:13-58
+activity#de.tubs.ibr.dtn.chat.MapsActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:114:9-116:68
+	android:label
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:116:13-56
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:115:13-41
+service#de.tubs.ibr.dtn.chat.Latlong
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:118:9-120:39
+	android:exported
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:120:13-37
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:119:13-36
+activity#de.tubs.ibr.dtn.chat.Cloud_SignUpActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:122:9-124:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:123:13-49
+activity#de.tubs.ibr.dtn.chat.Cloud_SignInActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:126:9-128:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:127:13-49
+service#de.tubs.ibr.dtn.chat.Cloud_ServiceCloudData
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:130:9-132:19
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:131:13-51
+activity#de.tubs.ibr.dtn.chat.Cloud_MapActivity
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:134:9-136:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:135:13-46
+activity#de.tubs.ibr.dtn.chat.ChatApplication
+ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:138:9-140:20
+	android:name
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml:139:13-44
+uses-sdk
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+MERGED from [de.tubs.ibr.dtn:library:1.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-1.1.1.aar/e7aba6281f53467aa53f82f969cc4920/AndroidManifest.xml:7:5-9:41
+MERGED from [de.tubs.ibr.dtn:library:1.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-1.1.1.aar/e7aba6281f53467aa53f82f969cc4920/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7572a0b4bee1fbd479093a7185706500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7572a0b4bee1fbd479093a7185706500/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:23:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/bca2574c5b43e5983044afdd4e9c07d7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/bca2574c5b43e5983044afdd4e9c07d7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/62dfd999cc3ed219c1bfbeff888a9b17/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/62dfd999cc3ed219c1bfbeff888a9b17/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/406ebb226204b85648ff0b88f654f782/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/406ebb226204b85648ff0b88f654f782/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/4a122c72051ea7357712b560def4d6a4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/4a122c72051ea7357712b560def4d6a4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/7904b121571d60f0249d32b54d727cf3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/7904b121571d60f0249d32b54d727cf3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/d82316685a431efaef20d4c647c29039/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/d82316685a431efaef20d4c647c29039/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/e566bd714a507f04d33c570f055ebc33/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/e566bd714a507f04d33c570f055ebc33/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/8c89d632161ee2a2aad2b8a3ae368753/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/8c89d632161ee2a2aad2b8a3ae368753/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a3c3b2af6d0c29820199f0bfdcc131f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a3c3b2af6d0c29820199f0bfdcc131f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b7964848bb5fbf9349e62fd2ffb55856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b7964848bb5fbf9349e62fd2ffb55856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cbdb15bb79aeccdd64e85e8953e386dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cbdb15bb79aeccdd64e85e8953e386dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b71a9b46d87b39bd2915e1ea5e2cb8bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b71a9b46d87b39bd2915e1ea5e2cb8bc/AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:geofire-android:2.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/cd0539cb376da1430df1f1a311b4aaa9/AndroidManifest.xml:2:3-70
+MERGED from [com.firebase:geofire-android:2.1.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/cd0539cb376da1430df1f1a311b4aaa9/AndroidManifest.xml:2:3-70
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0351fb09189edee33e091a216d49157e/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/mehul/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0351fb09189edee33e091a216d49157e/AndroidManifest.xml:19:5-43
+MERGED from [com.github.instacart.truetime-android:library-extension-rx:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-extension-rx-3.3.aar/807c74e8d8a4872d3a19ae55b9f81fe0/AndroidManifest.xml:7:5-43
+MERGED from [com.github.instacart.truetime-android:library-extension-rx:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-extension-rx-3.3.aar/807c74e8d8a4872d3a19ae55b9f81fe0/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.2.aar/cd6dd8d4f3a45ebc067f75d2e97a461f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.2.aar/cd6dd8d4f3a45ebc067f75d2e97a461f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/2bfc2bf5ea55687f5d823a116ad45aeb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/2bfc2bf5ea55687f5d823a116ad45aeb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/c518671efc0e152fd9020cb71ffd25e1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/c518671efc0e152fd9020cb71ffd25e1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/86979e45804d851ce29a5fe98f2b8c06/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/86979e45804d851ce29a5fe98f2b8c06/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/72e941617abfc44c08f7d1446aa42f65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/72e941617abfc44c08f7d1446aa42f65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/36f60ac3e5a9185c160764cc86c8e076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/36f60ac3e5a9185c160764cc86c8e076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/617edeeb74e40942e3abeb15dd7eb852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/617edeeb74e40942e3abeb15dd7eb852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8a765d8899e1b6c98f61e87d5eeaa901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8a765d8899e1b6c98f61e87d5eeaa901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b8a9b6f08683bec0367f2c4121e51def/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b8a9b6f08683bec0367f2c4121e51def/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fa031afe167be9ad1008445e932aa891/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fa031afe167be9ad1008445e932aa891/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/531c1ef00dbab749f224725b7f45ba5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/531c1ef00dbab749f224725b7f45ba5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3963d21c433cb428956e9c16fb9c00e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3963d21c433cb428956e9c16fb9c00e3/AndroidManifest.xml:20:5-44
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:7:5-43
+MERGED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/e33cf08c40e8708f2acefcab78d496a6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/e33cf08c40e8708f2acefcab78d496a6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/feba3aca877c0cdb4c18381cbbd841a0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/feba3aca877c0cdb4c18381cbbd841a0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/ae10869f5a90c509e67776639c62dc4c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/ae10869f5a90c509e67776639c62dc4c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/4ce9aafc1fde49c20bbff69f17c4f0b5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/4ce9aafc1fde49c20bbff69f17c4f0b5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/d9f143398bc0bc37b31d33d660684015/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/d9f143398bc0bc37b31d33d660684015/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/4a32c873553540ec826a2d1771bb0660/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/4a32c873553540ec826a2d1771bb0660/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/66603aa4f6de27a389e1a606a164ccaf/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/66603aa4f6de27a389e1a606a164ccaf/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/c9f9282d99b75a861e167a659361db46/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/c9f9282d99b75a861e167a659361db46/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/bd628e25f566e4ab63cb1af803f4d791/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/bd628e25f566e4ab63cb1af803f4d791/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/81d9e18019b3e8dcbf8974a37011288b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/81d9e18019b3e8dcbf8974a37011288b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/aa9103ba92e9c820dc323cbd79548b40/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/aa9103ba92e9c820dc323cbd79548b40/AndroidManifest.xml:4:5-43
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.2.aar/000f94ac29d435abbbff824e5d6a6d24/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/89be23b2f94263736769c8f476e150e7/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/2ac6129674d61ed0ff022cb40c41b192/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/1462fad9bcc4b955bc5ebea06df39031/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:17-71
+permission#de.tubs.ibr.dtn.chat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:27:22-76
+uses-permission#de.tubs.ibr.dtn.chat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+de.tubs.ibr.dtn.chat
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/64717484c93b8a6b8f8570d14dc5ff86/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/5a888529fd4b5e5131d571db9dc67215/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/AndroidManifest.xml:20:20-65
+receiver#com.instacart.library.truetime.BootCompletedBroadcastReceiver
+ADDED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:20:9-24:20
+	android:name
+		ADDED from [com.github.instacart.truetime-android:library:3.3] /home/mehul/.gradle/caches/transforms-1/files-1.1/library-3.3.aar/ba5ed75be48685021ff308263fb7035b/AndroidManifest.xml:20:19-95

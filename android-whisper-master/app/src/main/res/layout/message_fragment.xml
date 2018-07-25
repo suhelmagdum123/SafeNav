@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/message_fragment"
+	 android:orientation="vertical"
+	 android:layout_width="match_parent"
+	 android:layout_height="match_parent">
+	 
+	<de.tubs.ibr.dtn.chat.BuddyDisplay
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/buddy_background"
+		android:orientation="horizontal"
+		android:padding="4dp"
+		android:id="@+id/buddy_display">
+	
+		<ImageView
+			android:contentDescription="@string/desc_buddy_icon"
+			android:id="@+id/buddy_icon"
+			android:layout_width="24dp"
+			android:layout_height="24dp"
+			android:layout_weight="0"
+			android:layout_margin="8dp"
+			android:src="@drawable/online" />
+		
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_alignTop="@+id/buddy_icon"
+			android:layout_toRightOf="@+id/buddy_icon"
+			android:padding="4dp">
+	
+			<TextView
+				android:id="@+id/buddy_nickname"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center_vertical"
+				android:text="@string/nickname"
+				android:textColor="@color/buddy_text"
+				android:textSize="18sp" />
+		
+			<TextView
+				android:id="@+id/buddy_statusmessage"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_alignLeft="@+id/buddy_nickname"
+				android:layout_below="@+id/buddy_nickname"
+				android:ellipsize="marquee"
+				android:text="@string/no_status_message"
+				android:textColor="@color/buddy_text"
+				android:textSize="12sp" />
+			
+		</RelativeLayout>
+	
+	</de.tubs.ibr.dtn.chat.BuddyDisplay>
+
+	<de.tubs.ibr.dtn.chat.MessageList
+		android:id="@+id/list_messages"
+		android:layout_width="match_parent"
+		android:layout_height="290dp"
+		android:layout_weight="1"
+		android:stackFromBottom="true"
+		android:transcriptMode="alwaysScroll"></de.tubs.ibr.dtn.chat.MessageList>
+
+	<View
+		android:id="@+id/inputbox_separator"
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="@color/border_menu_seperator" />
+
+	<de.tubs.ibr.dtn.chat.MessageComposer
+		android:id="@+id/message_composer"
+		android:name="de.tubs.ibr.dtn.chat.InputFragment"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/inputbox_background">
+
+		<ImageButton
+			android:id="@+id/buttonSecurity"
+			android:layout_width="32dp"
+			android:layout_height="match_parent"
+			android:layout_gravity="bottom"
+			android:layout_marginRight="-8dp"
+			android:layout_weight="0"
+			android:background="@drawable/button_transparent"
+			android:contentDescription="@string/desc_security_button"
+			android:paddingBottom="8dp"
+			android:paddingLeft="4dp"
+			android:paddingTop="8dp"
+			android:src="@drawable/ic_action_keylock_open"
+			android:visibility="gone" />
+
+		<EditText
+			android:id="@+id/textMessage"
+			android:layout_width="43dp"
+			android:layout_height="wrap_content"
+			android:layout_margin="8dp"
+			android:layout_weight="1"
+			android:ems="10"
+			android:hint="@string/type_to_compose_text_enter_to_send"
+			android:imeOptions="actionSend|flagNoEnterAction"
+			android:inputType="textShortMessage|textMultiLine|textAutoCorrect|textCapSentences"
+			android:maxLines="3"
+			android:nextFocusRight="@+id/buttonSend"
+			android:singleLine="false"
+			android:text="@string/empty"
+			android:textSize="16sp"
+			android:visibility="invisible"></EditText>
+
+		<ImageButton
+			android:id="@+id/buttonSend"
+			android:layout_width="228dp"
+			android:layout_height="match_parent"
+			android:layout_gravity="bottom"
+			android:layout_weight="0"
+			android:background="@drawable/button"
+			android:contentDescription="@string/desc_send_button"
+			android:nextFocusLeft="@+id/textMessage"
+			android:src="@drawable/ic_action_send" />
+
+	</de.tubs.ibr.dtn.chat.MessageComposer>
+
+ </LinearLayout>

@@ -1,0 +1,4 @@
+#Tue Jul 24 15:21:21 IST 2018
+base.0=/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/build/intermediates/transforms/dexMerger/debug/25
+path.0=classes.dex
+renamed.0=classes.dex

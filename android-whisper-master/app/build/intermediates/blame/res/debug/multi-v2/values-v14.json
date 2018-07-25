@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-v14/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "396"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1162",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1503"
+                    }
+                },
+                {
+                    "source": "/home/mehul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b7964848bb5fbf9349e62fd2ffb55856/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "19,31,32,33,39",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "886,1508,1579,1662,2072",
+                        "endLines": "23,31,32,38,44",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "1157,1574,1657,2067,2489"
+                    }
+                },
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-v14/colors.xml",
+                    "from": {
+                        "startLines": "2,23,22,25,21,4,6,5,18,19,17,16,8,9,13,14,11",
+                        "startColumns": "1,4,4,4,4,2,2,2,4,4,4,4,1,2,4,4,2",
+                        "startOffsets": "52,790,744,841,699,107,201,154,596,644,551,507,247,295,398,452,343",
+                        "endColumns": "50,45,45,55,44,46,43,46,47,49,44,43,46,44,53,49,49",
+                        "endOffsets": "101,831,785,892,739,151,242,198,639,689,591,546,292,337,447,497,390"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,155,201,257,302,351,397,446,494,544,589,633,683,730,784,834",
+                        "endColumns": "53,45,45,55,44,48,45,48,47,49,44,43,49,46,53,49,51",
+                        "endOffsets": "104,150,196,252,297,346,392,441,489,539,584,628,678,725,779,829,881"
+                    }
+                }
+            ]
+        }
+    ]
+}

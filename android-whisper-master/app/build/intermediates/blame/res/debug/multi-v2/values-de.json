@@ -1,0 +1,149 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-de/message_duration.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,282",
+                        "endLines": "8,15",
+                        "endColumns": "19,19",
+                        "endOffsets": "277,485"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,332",
+                        "endLines": "8,15",
+                        "endColumns": "19,19",
+                        "endOffsets": "327,535"
+                    }
+                },
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-de/presence_tags.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,353",
+                        "endLines": "10,19",
+                        "endColumns": "19,19",
+                        "endOffsets": "348,605"
+                    },
+                    "to": {
+                        "startLines": "16,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "540,838",
+                        "endLines": "24,33",
+                        "endColumns": "19,19",
+                        "endOffsets": "833,1090"
+                    }
+                },
+                {
+                    "source": "/home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/a362bef5300d8ce84015e641f3079d7c/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,390,586,712,822,1059,1188,1332,1571,1681,1881,2010,2231,2433,2530,2619",
+                        "endColumns": "106,195,125,109,236,128,143,238,109,199,128,220,201,96,88,104",
+                        "endOffsets": "389,585,711,821,1058,1187,1331,1570,1680,1880,2009,2230,2432,2529,2618,2723"
+                    },
+                    "to": {
+                        "startLines": "60,61,62,63,64,65,66,68,69,70,71,72,73,74,75,76",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3586,3697,3893,4023,4137,4374,4507,4859,5098,5212,5412,5545,5766,5972,6073,6166",
+                        "endColumns": "110,195,129,113,236,132,147,238,113,199,132,220,205,100,92,108",
+                        "endOffsets": "3692,3888,4018,4132,4369,4502,4650,5093,5207,5407,5540,5761,5967,6068,6161,6270"
+                    }
+                },
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "47,48,24,27,25,26,2,10,9,12,42,41,43,44,3,5,4,29,28,8,49,50,16,45,7,51,52,31,22,20,19,14,35,23,32,30,17,21,38,13,36,37,6,15,39,40,46,33,34,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4",
+                        "startOffsets": "3191,3258,1262,1684,1481,1643,55,455,411,575,2862,2792,2923,2994,100,215,157,1782,1726,376,3325,3498,783,3048,322,3550,3602,1908,1106,1004,940,677,2181,1177,1965,1851,851,1059,2446,634,2260,2327,278,722,2601,2668,3108,2034,2091,512,905",
+                        "endColumns": "66,66,218,41,161,40,44,56,43,58,60,69,70,53,56,62,57,68,55,34,172,51,67,62,53,51,66,56,70,54,63,44,78,84,68,56,53,46,154,42,66,118,43,60,66,123,79,56,89,62,34",
+                        "endOffsets": "3253,3320,1476,1721,1638,1679,95,507,450,629,2918,2857,2989,3043,152,273,210,1846,1777,406,3493,3545,846,3106,371,3597,3664,1960,1172,1054,999,717,2255,1257,2029,1903,900,1101,2596,672,2322,2441,317,778,2663,2787,3186,2086,2176,570,935"
+                    },
+                    "to": {
+                        "startLines": "51,52,53,54,55,56,57,58,59,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,109,110,112,113,115,116,117,118,119,120,121",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2842,2909,2976,3195,3237,3399,3440,3485,3542,6275,6334,6395,6465,6536,6590,6647,6710,6768,6837,6893,6920,7093,7145,7213,7276,7330,7382,7449,7506,7577,7632,7696,7741,7820,7905,7974,8031,8085,8132,8287,8380,8447,8648,8692,8854,8921,9045,9128,9185,9275,9338",
+                        "endColumns": "66,66,218,41,161,40,44,56,43,58,60,69,70,53,56,62,57,68,55,26,172,51,67,62,53,51,66,56,70,54,63,44,78,84,68,56,53,46,154,42,66,118,43,60,66,123,82,56,89,62,34",
+                        "endOffsets": "2904,2971,3190,3232,3394,3435,3480,3537,3581,6329,6390,6460,6531,6585,6642,6705,6763,6832,6888,6915,7088,7140,7208,7271,7325,7377,7444,7501,7572,7627,7691,7736,7815,7900,7969,8026,8080,8127,8282,8325,8442,8561,8687,8748,8916,9040,9123,9180,9270,9333,9368"
+                    }
+                },
+                {
+                    "source": "/home/mehul/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/bddbada5d57e21cdeb7c11fe6f070cb2/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "203",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "67",
+                        "startColumns": "4",
+                        "startOffsets": "4655",
+                        "endColumns": "203",
+                        "endOffsets": "4854"
+                    }
+                },
+                {
+                    "source": "/home/mehul/AndroidStudioProjects/M2Smart_Geofire/android-whisper-master/app/src/main/res/values-de/wear_strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "108",
+                        "startColumns": "4",
+                        "startOffsets": "8330",
+                        "endColumns": "49",
+                        "endOffsets": "8375"
+                    }
+                },
+                {
+                    "source": "/home/mehul/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3963d21c433cb428956e9c16fb9c00e3/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "8753",
+                        "endColumns": "100",
+                        "endOffsets": "8849"
+                    }
+                },
+                {
+                    "source": "/home/mehul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b7964848bb5fbf9349e62fd2ffb55856/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,111",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1095,1200,1298,1410,1496,1601,1716,1793,1869,1951,2062,2165,2264,2375,2477,2584,2740,8566",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "1195,1293,1405,1491,1596,1711,1788,1864,1946,2057,2160,2259,2370,2472,2579,2735,2837,8643"
+                    }
+                }
+            ]
+        }
+    ]
+}
